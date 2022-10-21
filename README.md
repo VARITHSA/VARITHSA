@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/VARITHSA/VARITHSA/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Srivathsa B S</h1>
 <h3 align="center">A Tech passionate and content writter</h3>
 
