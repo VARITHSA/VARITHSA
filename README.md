@@ -1,43 +1,199 @@
+<div align="center">
 
-![logo](https://github.com/VARITHSA/VARITHSA/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Srivathsa B S</h1>
-<h3 align="center">A Tech passionate and content writter</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Srivathsa B S — Software Engineer · HPC & Heterogeneous Computing · Quantum" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<img align = "right" alt = "Coding" widtht = "300" height= "300" src= "https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif">
+<a href="https://github.com/VARITHSA">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=2986FF&center=true&vCenter=true&width=640&lines=Deciding+when+code+should+run+on+the+CPU+vs+the+GPU;Writing+quantum+circuits+with+Qiskit;Shipping+client+products+at+LYPTRON;Open+to+SDE+roles+%E2%80%94+say+hi+below" alt="What I'm working on">
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varithsa&label=Profile%20views&color=0e75b6&style=flat" alt="varithsa" /> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/srivathsa_b_s" target="blank"><img src="https://img.shields.io/twitter/follow/srivathsa_b_s?logo=twitter&style=for-the-badge" alt="srivathsa_b_s" /></a> </p>
+<a href="https://linkedin.com/in/srivathsa-b-s-185a03237"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=2986FF" alt="LinkedIn"></a>
+<a href="mailto:bssrivathsa2003@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0C?style=for-the-badge&logo=gmail&logoColor=FDAE2B" alt="Email"></a>
+<a href="https://medium.com/@bssrivathsa2003"><img src="https://img.shields.io/badge/Medium-0B0B0C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://lyptron.com"><img src="https://img.shields.io/badge/LYPTRON-0B0B0C?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgZmlsbD0iI0ZEQUUyQiIvPjwvc3ZnPg==" alt="LYPTRON"></a>
 
-- 🌱 I’m currently learning **Flutter, full stack, cross-platform development**
+</div>
 
-- 📝 I regularly write articles on [https://medium.com/@bssrivathsa2003](https://medium.com/@bssrivathsa2003)
+---
 
-- 💬 Ask me about **Flutter, java, python**
+### `$ cat about.md`
 
-- 📫 How to reach me **bssrivathsa2003@gmail.com**
+I'm an M.Tech CSE student at **Manipal Institute of Technology, Bengaluru**, working where software meets hardware: figuring out *where* a workload should run, CPU or GPU, and *how* to run it there fast. On the side I'm learning quantum computing the hands-on way, with Qiskit.
 
-- ⚡ Fun fact **I am foodie**
+I also run **[LYPTRON](https://lyptron.com)**, a design and technology studio, where I've shipped production apps for real clients, from a desktop music-notation editor to a Flutter field-operations app.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/srivathsa_b_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srivathsa_b_s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/follow me on linkedin: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=people_follows&followmember=srivathsa-b-s-185a03237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="follow me on linkedin: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=people_follows&followmember=srivathsa-b-s-185a03237" height="30" width="40" /></a>
-<a href="https://fb.com/srivathsa b s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srivathsa b s" height="30" width="40" /></a>
-<a href="https://instagram.com/bssrivathsa2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bssrivathsa2003" height="30" width="40" /></a>
-<a href="https://medium.com/@srivathsa bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srivathsa bs" height="30" width="40" /></a>
-</p>
+**🔭 Researching**<br>
+Intelligent CPU–GPU execution strategy selection for ML workloads
 
-<h2> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height= 30px > </h2>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</td>
+<td width="33%" valign="top">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varithsa&show_icons=true&locale=en&layout=compact" alt="varithsa" /></p>
+**⚛️ Learning**<br>
+Quantum algorithms (Bernstein–Vazirani, oracles, circuit design)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varithsa&show_icons=true&locale=en" alt="varithsa" /></p>
+</td>
+<td width="33%" valign="top">
 
+**🛠️ Building**<br>
+Client products and agentic workflows at LYPTRON
 
+</td>
+</tr>
+</table>
 
+---
+
+### `$ ls ~/work` <sub>· click a project to open it</sub>
+
+<details>
+<summary><b>⚡ AutoHetero</b> · a zero-config runtime that dispatches Python workloads to CPU or GPU</summary>
+<br>
+
+A self-adaptive runtime layer that sits under ordinary Python code, profiles each workload, and dispatches it to the CPU or the GPU, so developers get heterogeneous execution without rewriting anything.
+
+```mermaid
+flowchart LR
+    A[Python call] --> B{Profiler}
+    B -->|features: size, ops, memory| C[Dispatch policy]
+    C -->|small / branchy| D[CPU]
+    C -->|large / data-parallel| E[GPU]
+    D --> F[Result]
+    E --> F
+    F -.->|runtime feedback| C
+```
+
+`Python` `CUDA` `profiling` `HPC`
+</details>
+
+<details>
+<summary><b>🧠 Intelligent Execution Strategy Selection</b> · M.Tech research: choose device and GPU concurrency for ML models</summary>
+<br>
+
+My M.Tech HPC project. Given an ML workload, it picks the execution strategy: which device it runs on and how much GPU concurrency to use. The aim is a decider students can use before they run their models. It builds on what AutoHetero showed in practice.
+
+`Python` `CUDA` `ML systems` `research`
+</details>
+
+<details>
+<summary><b>⚛️ ClusterDoc</b> · finds failing servers in a cluster with the Bernstein–Vazirani algorithm</summary>
+<br>
+
+Each server's health becomes one bit of a hidden string. A parity health-check oracle encodes the cluster, and one Bernstein–Vazirani query recovers which servers are failing. A classical approach needs *n* checks for the same answer.
+
+```mermaid
+flowchart LR
+    A["|0⟩ⁿ |1⟩"] --> B["H⊗ⁿ"]
+    B --> C["U_f<br/>parity health-check oracle"]
+    C --> D["H⊗ⁿ"]
+    D --> E["Measure → failing-server bitmap"]
+```
+
+`Qiskit` `Python` `quantum algorithms`
+</details>
+
+<details>
+<summary><b>🛰️ EGAQ</b> · entropy-guided adaptive quadtree for multi-resolution satellite image retrieval</summary>
+<br>
+
+Splits satellite imagery into a quadtree that subdivides only where image entropy is high, so detailed regions get fine tiles and flat regions stay coarse. Retrieval works across resolutions without indexing every pixel at full detail.
+
+`Python` `computer vision` `spatial indexing`
+</details>
+
+<details>
+<summary><b>💼 Client work at LYPTRON</b> · production apps, end to end</summary>
+<br>
+
+- **Music-notation desktop app**: offline score editor with playback, tala-aware layout, and PDF export, shipped as a Windows installer
+- **Field-operations app** (Flutter): attendance, materials and reporting for construction sites, designed for non-technical users
+- Client websites and landing pages, from design system to deployment
+
+Code is private under client agreements; happy to walk through the architecture.
+</details>
+
+---
+
+### `$ stack --list`
+
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart&theme=dark" height="40" alt="Python, C++, C, Java, Dart"></td></tr>
+<tr><td><b>HPC &amp; Quantum</b></td><td>
+<img src="https://img.shields.io/badge/CUDA-0B0B0C?style=flat-square&logo=nvidia&logoColor=76B900" alt="CUDA">
+<img src="https://img.shields.io/badge/MPI-0B0B0C?style=flat-square&logoColor=white" alt="MPI">
+<img src="https://img.shields.io/badge/OpenMP-0B0B0C?style=flat-square" alt="OpenMP">
+<img src="https://img.shields.io/badge/Qiskit-0B0B0C?style=flat-square&logo=qiskit&logoColor=6929C4" alt="Qiskit">
+</td></tr>
+<tr><td><b>System Design</b></td><td>
+<img src="https://img.shields.io/badge/Low--Level_Design-0B0B0C?style=flat-square" alt="Low-Level Design">
+<img src="https://img.shields.io/badge/System_Flow_Architecture-0B0B0C?style=flat-square" alt="System Flow Architecture">
+<img src="https://img.shields.io/badge/Design_Patterns-0B0B0C?style=flat-square" alt="Design Patterns">
+</td></tr>
+<tr><td><b>Agentic AI &amp; Automation</b></td><td>
+<img src="https://img.shields.io/badge/Agentic_AI-0B0B0C?style=flat-square" alt="Agentic AI">
+<img src="https://img.shields.io/badge/MCP-0B0B0C?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+<img src="https://img.shields.io/badge/Claude-0B0B0C?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
+<img src="https://img.shields.io/badge/Workflow_Automation-0B0B0C?style=flat-square" alt="Workflow Automation">
+</td></tr>
+<tr><td><b>Backend &amp; Apps</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,flutter,firebase&theme=dark" height="40" alt="FastAPI, Flutter, Firebase"></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,figma&theme=dark" height="40" alt="Git, Linux, Docker, VS Code, Figma"></td></tr>
+</table>
+
+---
+
+### `$ git log --graph`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VARITHSA/VARITHSA/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/VARITHSA/VARITHSA/output/snake.svg" width="100%">
+</picture>
+
+---
+
+### `$ ./visitor.sh` <sub>· pick your path</sub>
+
+<details>
+<summary>🧑‍💼 <b>I'm hiring</b></summary>
+<br>
+
+I'm looking for **SDE roles** where systems thinking matters: backend, infrastructure, performance, ML systems, or agentic AI. I bring:
+
+- Low-level performance work (CUDA, MPI, OpenMP) **and** end-to-end product delivery
+- Experience owning projects with real clients, from scoping and contracts to design and shipping
+- Steady DSA practice
+
+📫 [Email me](mailto:bssrivathsa2003@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/srivathsa-b-s-185a03237).
+</details>
+
+<details>
+<summary>🔬 <b>I want to collaborate on research</b></summary>
+<br>
+
+I'm interested in heterogeneous scheduling, GPU performance modelling, energy-aware execution, and practical quantum algorithms. If you're working on any of these, [open a discussion](https://github.com/VARITHSA/VARITHSA/issues/new?title=Research%20collab%3A%20&body=Hi%20Srivathsa%2C%20I%27m%20working%20on%20...) and tell me about it.
+</details>
+
+<details>
+<summary>🏢 <b>I need something built</b></summary>
+<br>
+
+That's what [LYPTRON](https://lyptron.com) does: apps, websites, and design systems, built with care.<br>
+*Building trust, one partnership at a time.*
+</details>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/VARITHSA/VARITHSA/issues/new?title=%F0%9F%91%8B%20Hi%20from%20&body=Name%3A%0AWhere%20I%20found%20you%3A%0AMessage%3A%0A"><img src="https://img.shields.io/badge/👋_Sign_the_guestbook-2986FF?style=for-the-badge" alt="Sign the guestbook"></a>
+<a href="https://github.com/VARITHSA/VARITHSA/issues/new?title=%E2%9D%93%20Question%3A%20&body=Ask%20me%20anything%20about%20HPC%2C%20quantum%2C%20Flutter%2C%20or%20running%20a%20studio%20as%20a%20student."><img src="https://img.shields.io/badge/❓_Ask_me_anything-0B0B0C?style=for-the-badge" alt="Ask me anything"></a>
+
+<sub>Both buttons open a pre-filled GitHub issue. I read every one.</sub>
+
+</div>

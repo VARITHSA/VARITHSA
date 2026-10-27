@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Srivathsa B S — Software engineer, HPC and quantum computing, founder of LYPTRON">
+  <style>
+    .sans { font-family: 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+    .core { fill: #2986FF; opacity: .18; animation: pulse 2.4s ease-in-out infinite; }
+    .gcore { fill: #FDAE2B; opacity: .15; animation: pulse 1.2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .15 } 50% { opacity: .95 } }
+    .pkt { animation: flow 2.6s cubic-bezier(.6,0,.4,1) infinite; }
+    .pkt2 { animation: flow 2.6s cubic-bezier(.6,0,.4,1) infinite; animation-delay: 1.3s; }
+    @keyframes flow { 0% { transform: translateX(0); opacity: 0 } 10%,85% { opacity: 1 } 100% { transform: translateX(50px); opacity: 0 } }
+    .spin { transform-origin: 842px 258px; animation: spin 9s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg) } }
+    .vec { transform-origin: 842px 258px; animation: precess 5s ease-in-out infinite alternate; }
+    @keyframes precess { from { transform: rotate(-35deg) } to { transform: rotate(55deg) } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .rise { animation: rise .9s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#EDF0F5"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FAFBFD"/><stop offset=".55" stop-color="#FAFBFD" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="#FAFBFD"/>
+  <rect width="1200" height="340" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#fade)"/>
+  <rect x=".5" y=".5" width="1199" height="339" rx="18" fill="none" stroke="#E4E8EF"/>
+
+  <g class="rise">
+    <text x="64" y="86" class="mono" font-size="15" fill="#5B6170">~/varithsa <tspan fill="#2986FF">$</tspan> whoami<tspan class="caret" fill="#FDAE2B"> ▍</tspan></text>
+    <text x="62" y="160" class="sans" font-size="64" font-weight="800" letter-spacing="-2" fill="#0B0B0C">Srivathsa B S</text>
+    <text x="64" y="204" class="sans" font-size="21" fill="#5B6170">Software Engineer <tspan fill="#2986FF">·</tspan> HPC &amp; Heterogeneous Computing <tspan fill="#2986FF">·</tspan> Quantum</text>
+  </g>
+  <g class="mono" font-size="13">
+    <rect x="64" y="236" width="196" height="34" rx="17" fill="none" stroke="#E4E8EF"/>
+    <circle cx="84" cy="253" r="4" fill="#FDAE2B"/>
+    <text x="96" y="257.5" fill="#0B0B0C">Founder @ LYPTRON</text>
+    <rect x="272" y="236" width="228" height="34" rx="17" fill="none" stroke="#E4E8EF"/>
+    <circle cx="292" cy="253" r="4" fill="#2986FF"/>
+    <text x="304" y="257.5" fill="#0B0B0C">M.Tech CSE · MIT Blr</text>
+    <rect x="512" y="236" width="150" height="34" rx="17" fill="none" stroke="#E4E8EF"/>
+    <circle cx="532" cy="253" r="4" fill="#3CCB7F"/>
+    <text x="544" y="257.5" fill="#0B0B0C">Bengaluru</text>
+  </g>
+
+  <!-- CPU -> GPU dispatch motif -->
+  <rect x="790" y="40" width="104" height="130" rx="12" fill="#FFFFFF" stroke="#E4E8EF"/>
+  <text x="806" y="64" class="mono" font-size="11" fill="#5B6170">CPU</text>
+  <rect class="core" x="806" y="84" width="20" height="20" rx="2" style="animation-delay:0.00s"/>
+    <rect class="core" x="832" y="84" width="20" height="20" rx="2" style="animation-delay:0.13s"/>
+    <rect class="core" x="858" y="84" width="20" height="20" rx="2" style="animation-delay:0.26s"/>
+    <rect class="core" x="806" y="110" width="20" height="20" rx="2" style="animation-delay:0.39s"/>
+    <rect class="core" x="832" y="110" width="20" height="20" rx="2" style="animation-delay:0.52s"/>
+    <rect class="core" x="858" y="110" width="20" height="20" rx="2" style="animation-delay:0.65s"/>
+  <rect x="960" y="40" width="190" height="130" rx="12" fill="#FFFFFF" stroke="#E4E8EF"/>
+  <text x="976" y="64" class="mono" font-size="11" fill="#5B6170">GPU</text>
+  <rect class="gcore" x="976" y="80" width="8" height="8" rx="2" style="animation-delay:0.00s"/>
+    <rect class="gcore" x="988" y="80" width="8" height="8" rx="2" style="animation-delay:0.13s"/>
+    <rect class="gcore" x="1000" y="80" width="8" height="8" rx="2" style="animation-delay:0.26s"/>
+    <rect class="gcore" x="1012" y="80" width="8" height="8" rx="2" style="animation-delay:0.39s"/>
+    <rect class="gcore" x="1024" y="80" width="8" height="8" rx="2" style="animation-delay:0.52s"/>
+    <rect class="gcore" x="1036" y="80" width="8" height="8" rx="2" style="animation-delay:0.65s"/>
+    <rect class="gcore" x="1048" y="80" width="8" height="8" rx="2" style="animation-delay:0.78s"/>
+    <rect class="gcore" x="1060" y="80" width="8" height="8" rx="2" style="animation-delay:0.91s"/>
+    <rect class="gcore" x="1072" y="80" width="8" height="8" rx="2" style="animation-delay:1.04s"/>
+    <rect class="gcore" x="1084" y="80" width="8" height="8" rx="2" style="animation-delay:1.17s"/>
+    <rect class="gcore" x="1096" y="80" width="8" height="8" rx="2" style="animation-delay:1.30s"/>
+    <rect class="gcore" x="1108" y="80" width="8" height="8" rx="2" style="animation-delay:1.43s"/>
+    <rect class="gcore" x="1120" y="80" width="8" height="8" rx="2" style="animation-delay:1.56s"/>
+    <rect class="gcore" x="1132" y="80" width="8" height="8" rx="2" style="animation-delay:1.69s"/>
+    <rect class="gcore" x="976" y="92" width="8" height="8" rx="2" style="animation-delay:1.82s"/>
+    <rect class="gcore" x="988" y="92" width="8" height="8" rx="2" style="animation-delay:1.95s"/>
+    <rect class="gcore" x="1000" y="92" width="8" height="8" rx="2" style="animation-delay:2.08s"/>
+    <rect class="gcore" x="1012" y="92" width="8" height="8" rx="2" style="animation-delay:2.21s"/>
+    <rect class="gcore" x="1024" y="92" width="8" height="8" rx="2" style="animation-delay:2.34s"/>
+    <rect class="gcore" x="1036" y="92" width="8" height="8" rx="2" style="animation-delay:0.07s"/>
+    <rect class="gcore" x="1048" y="92" width="8" height="8" rx="2" style="animation-delay:0.20s"/>
+    <rect class="gcore" x="1060" y="92" width="8" height="8" rx="2" style="animation-delay:0.33s"/>
+    <rect class="gcore" x="1072" y="92" width="8" height="8" rx="2" style="animation-delay:0.46s"/>
+    <rect class="gcore" x="1084" y="92" width="8" height="8" rx="2" style="animation-delay:0.59s"/>
+    <rect class="gcore" x="1096" y="92" width="8" height="8" rx="2" style="animation-delay:0.72s"/>
+    <rect class="gcore" x="1108" y="92" width="8" height="8" rx="2" style="animation-delay:0.85s"/>
+    <rect class="gcore" x="1120" y="92" width="8" height="8" rx="2" style="animation-delay:0.98s"/>
+    <rect class="gcore" x="1132" y="92" width="8" height="8" rx="2" style="animation-delay:1.11s"/>
+    <rect class="gcore" x="976" y="104" width="8" height="8" rx="2" style="animation-delay:1.24s"/>
+    <rect class="gcore" x="988" y="104" width="8" height="8" rx="2" style="animation-delay:1.37s"/>
+    <rect class="gcore" x="1000" y="104" width="8" height="8" rx="2" style="animation-delay:1.50s"/>
+    <rect class="gcore" x="1012" y="104" width="8" height="8" rx="2" style="animation-delay:1.63s"/>
+    <rect class="gcore" x="1024" y="104" width="8" height="8" rx="2" style="animation-delay:1.76s"/>
+    <rect class="gcore" x="1036" y="104" width="8" height="8" rx="2" style="animation-delay:1.89s"/>
+    <rect class="gcore" x="1048" y="104" width="8" height="8" rx="2" style="animation-delay:2.02s"/>
+    <rect class="gcore" x="1060" y="104" width="8" height="8" rx="2" style="animation-delay:2.15s"/>
+    <rect class="gcore" x="1072" y="104" width="8" height="8" rx="2" style="animation-delay:2.28s"/>
+    <rect class="gcore" x="1084" y="104" width="8" height="8" rx="2" style="animation-delay:0.01s"/>
+    <rect class="gcore" x="1096" y="104" width="8" height="8" rx="2" style="animation-delay:0.14s"/>
+    <rect class="gcore" x="1108" y="104" width="8" height="8" rx="2" style="animation-delay:0.27s"/>
+    <rect class="gcore" x="1120" y="104" width="8" height="8" rx="2" style="animation-delay:0.40s"/>
+    <rect class="gcore" x="1132" y="104" width="8" height="8" rx="2" style="animation-delay:0.53s"/>
+    <rect class="gcore" x="976" y="116" width="8" height="8" rx="2" style="animation-delay:0.66s"/>
+    <rect class="gcore" x="988" y="116" width="8" height="8" rx="2" style="animation-delay:0.79s"/>
+    <rect class="gcore" x="1000" y="116" width="8" height="8" rx="2" style="animation-delay:0.92s"/>
+    <rect class="gcore" x="1012" y="116" width="8" height="8" rx="2" style="animation-delay:1.05s"/>
+    <rect class="gcore" x="1024" y="116" width="8" height="8" rx="2" style="animation-delay:1.18s"/>
+    <rect class="gcore" x="1036" y="116" width="8" height="8" rx="2" style="animation-delay:1.31s"/>
+    <rect class="gcore" x="1048" y="116" width="8" height="8" rx="2" style="animation-delay:1.44s"/>
+    <rect class="gcore" x="1060" y="116" width="8" height="8" rx="2" style="animation-delay:1.57s"/>
+    <rect class="gcore" x="1072" y="116" width="8" height="8" rx="2" style="animation-delay:1.70s"/>
+    <rect class="gcore" x="1084" y="116" width="8" height="8" rx="2" style="animation-delay:1.83s"/>
+    <rect class="gcore" x="1096" y="116" width="8" height="8" rx="2" style="animation-delay:1.96s"/>
+    <rect class="gcore" x="1108" y="116" width="8" height="8" rx="2" style="animation-delay:2.09s"/>
+    <rect class="gcore" x="1120" y="116" width="8" height="8" rx="2" style="animation-delay:2.22s"/>
+    <rect class="gcore" x="1132" y="116" width="8" height="8" rx="2" style="animation-delay:2.35s"/>
+    <rect class="gcore" x="976" y="128" width="8" height="8" rx="2" style="animation-delay:0.08s"/>
+    <rect class="gcore" x="988" y="128" width="8" height="8" rx="2" style="animation-delay:0.21s"/>
+    <rect class="gcore" x="1000" y="128" width="8" height="8" rx="2" style="animation-delay:0.34s"/>
+    <rect class="gcore" x="1012" y="128" width="8" height="8" rx="2" style="animation-delay:0.47s"/>
+    <rect class="gcore" x="1024" y="128" width="8" height="8" rx="2" style="animation-delay:0.60s"/>
+    <rect class="gcore" x="1036" y="128" width="8" height="8" rx="2" style="animation-delay:0.73s"/>
+    <rect class="gcore" x="1048" y="128" width="8" height="8" rx="2" style="animation-delay:0.86s"/>
+    <rect class="gcore" x="1060" y="128" width="8" height="8" rx="2" style="animation-delay:0.99s"/>
+    <rect class="gcore" x="1072" y="128" width="8" height="8" rx="2" style="animation-delay:1.12s"/>
+    <rect class="gcore" x="1084" y="128" width="8" height="8" rx="2" style="animation-delay:1.25s"/>
+    <rect class="gcore" x="1096" y="128" width="8" height="8" rx="2" style="animation-delay:1.38s"/>
+    <rect class="gcore" x="1108" y="128" width="8" height="8" rx="2" style="animation-delay:1.51s"/>
+    <rect class="gcore" x="1120" y="128" width="8" height="8" rx="2" style="animation-delay:1.64s"/>
+    <rect class="gcore" x="1132" y="128" width="8" height="8" rx="2" style="animation-delay:1.77s"/>
+    <rect class="gcore" x="976" y="140" width="8" height="8" rx="2" style="animation-delay:1.90s"/>
+    <rect class="gcore" x="988" y="140" width="8" height="8" rx="2" style="animation-delay:2.03s"/>
+    <rect class="gcore" x="1000" y="140" width="8" height="8" rx="2" style="animation-delay:2.16s"/>
+    <rect class="gcore" x="1012" y="140" width="8" height="8" rx="2" style="animation-delay:2.29s"/>
+    <rect class="gcore" x="1024" y="140" width="8" height="8" rx="2" style="animation-delay:0.02s"/>
+    <rect class="gcore" x="1036" y="140" width="8" height="8" rx="2" style="animation-delay:0.15s"/>
+    <rect class="gcore" x="1048" y="140" width="8" height="8" rx="2" style="animation-delay:0.28s"/>
+    <rect class="gcore" x="1060" y="140" width="8" height="8" rx="2" style="animation-delay:0.41s"/>
+    <rect class="gcore" x="1072" y="140" width="8" height="8" rx="2" style="animation-delay:0.54s"/>
+    <rect class="gcore" x="1084" y="140" width="8" height="8" rx="2" style="animation-delay:0.67s"/>
+    <rect class="gcore" x="1096" y="140" width="8" height="8" rx="2" style="animation-delay:0.80s"/>
+    <rect class="gcore" x="1108" y="140" width="8" height="8" rx="2" style="animation-delay:0.93s"/>
+    <rect class="gcore" x="1120" y="140" width="8" height="8" rx="2" style="animation-delay:1.06s"/>
+    <rect class="gcore" x="1132" y="140" width="8" height="8" rx="2" style="animation-delay:1.19s"/>
+  <path d="M894 120 H 960" stroke="#E4E8EF" stroke-dasharray="3 5"/>
+  <text x="900" y="108" class="mono" font-size="10" fill="#5B6170">dispatch</text>
+  <rect class="pkt" x="896" y="117" width="12" height="6" rx="3" fill="#2986FF"/>
+  <rect class="pkt2" x="896" y="117" width="12" height="6" rx="3" fill="#FDAE2B"/>
+
+  <!-- qubit / Bloch sphere -->
+  <circle cx="842" cy="258" r="44" fill="none" stroke="#E4E8EF"/>
+  <ellipse class="spin" cx="842" cy="258" rx="44" ry="14" fill="none" stroke="#2986FF" stroke-opacity=".6" stroke-dasharray="4 6"/>
+  <line x1="842" y1="210" x2="842" y2="306" stroke="#E4E8EF"/>
+  <g class="vec"><line x1="842" y1="258" x2="842" y2="220" stroke="#FDAE2B" stroke-width="2.5" stroke-linecap="round"/><circle cx="842" cy="220" r="4.5" fill="#FDAE2B"/></g>
+  <circle cx="842" cy="258" r="3" fill="#0B0B0C"/>
+  <text x="906" y="250" class="mono" font-size="12" fill="#5B6170">qubit.state</text>
+  <text x="906" y="272" class="mono" font-size="12" fill="#2986FF">qiskit · bernstein-vazirani</text>
+</svg>
